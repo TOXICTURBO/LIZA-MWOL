@@ -137,7 +137,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         });
 
         console.log(
-            chalk.green.bold('✅ Liza Mwol working!')
+            chalk.green.bold('✅ Toxic Mwol working!')
         );
         await conn.sendMessage(
             conn.user.jid,
@@ -368,8 +368,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                         } catch (error) {
                             if (config.NOLOG == 'off') {
                                 
-                                await conn.sendMessage(conn.user.jid, '*~_________~ 𝐋𝐈𝐙𝐀 𝐌𝐖𝐎𝐋࿐ ~______~*' +
-                                    '\n\n*👾 ' + error + '*\n\n```Report errors\njoin ⚠️Warning bot not allowed in the group\nchat.whatsapp.com/HrPTDEi6NPsJpgvMZHNBg7``` ' 
+                                await conn.sendMessage(conn.user.jid, '*~_________~ Toxic Bot࿐ ~______~*' +
+                                    '\n\n*👾 ' + error + '*\n\n```Report errors\njoin\nchat.whatsapp.com/EQiRSt1omhJ3EqilWhacvo``` ' 
                                     , MessageType.text);
                             }
                         }
