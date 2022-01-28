@@ -13,22 +13,22 @@ Asena.addCommand({pattern: 'git', fromMe: false, desc: Lang.GL}, (async (message
 
     await message.sendMessage(Buffer(respoimage.data), MessageType.image, {quoted: message.data , thumbnail: fs.readFileSync('20210811_082543.jpg'), mimetype: Mimetype.png, caption: `*≈≈≈≈≈≈≈Links ☟︎︎︎≈≈≈≈≈≈≈≈*
  
-*owner number wa.me/918137829228*
+*owner number wa.me/916380260672*
    
-*owner number wa.me/918075379950*
+*owner number wa.me/918270026275*
 
 
-*whatsapp group : https://chat.whatsapp.com/FVOdpPLaMvP24rIfTzCGof*
+*whatsapp group : https://chat.whatsapp.com/EQiRSt1omhJ3EqilWhacvo*
 
 
-*githublink       _https://tinyurl.com/yjdej5a2_*
+*githublink       coming soon *
 
 
-*audio commads    _https://tinyurl.com/ydvlpbol_*
+*audio commads    coming soon *
 
-*Bot Make Video ytube -https://youtu.be/s3ugOuxbQ_Q_*
+*Bot Make Video ytube coming soon *
 
-*sticker commads  _https://tinyurl.com/yfpd23yn_*     
+*sticker commads  coming soon *     
 `}) 
 
 })); 
